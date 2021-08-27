@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c0e284f.chunk.css",
+    "main.js": "/static/js/main.1fd59041.chunk.js",
+    "main.js.map": "/static/js/main.1fd59041.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0598fb2a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0598fb2a.js.map",
+    "static/js/2.f9fc9cb8.chunk.js": "/static/js/2.f9fc9cb8.chunk.js",
+    "static/js/2.f9fc9cb8.chunk.js.map": "/static/js/2.f9fc9cb8.chunk.js.map",
+    "static/js/3.ed3049d7.chunk.js": "/static/js/3.ed3049d7.chunk.js",
+    "static/js/3.ed3049d7.chunk.js.map": "/static/js/3.ed3049d7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6c0e284f.chunk.css.map": "/static/css/main.6c0e284f.chunk.css.map",
+    "static/js/2.f9fc9cb8.chunk.js.LICENSE.txt": "/static/js/2.f9fc9cb8.chunk.js.LICENSE.txt",
+    "static/media/CatwikiLogo.92dea8ab.svg": "/static/media/CatwikiLogo.92dea8ab.svg",
+    "static/media/CatwikiLogoWhite.1212ae78.svg": "/static/media/CatwikiLogoWhite.1212ae78.svg",
+    "static/media/HeroImagelg.b8e8da01.png": "/static/media/HeroImagelg.b8e8da01.png",
+    "static/media/image1.ed2005d9.png": "/static/media/image1.ed2005d9.png",
+    "static/media/image2.4e193fd0.png": "/static/media/image2.4e193fd0.png",
+    "static/media/image3.084e290f.png": "/static/media/image3.084e290f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0598fb2a.js",
+    "static/js/2.f9fc9cb8.chunk.js",
+    "static/css/main.6c0e284f.chunk.css",
+    "static/js/main.1fd59041.chunk.js"
+  ]
+}
