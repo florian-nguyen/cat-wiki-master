@@ -93,6 +93,7 @@ const HomeBreedPortfolio = ({ data }) => {
 
 			<Portfolio>
 				{data.slice(0, 4).map((item, index) => {
+					console.log(item)
 					if (index === 0) {
 						return (
 							<PortfolioItem

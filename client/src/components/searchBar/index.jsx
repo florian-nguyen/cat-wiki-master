@@ -180,7 +180,7 @@ const SearchBar = ({ data }) => {
 	const [isLoading, setIsLoading] = useState(false);
 	const [isSearching, setIsSearching] = useState(false);
 	const [parentRef, isClickedOutside] = useClickOutside();
-	const setSearchContainerOpenState = useState(false);
+	const [searchContainerOpenState, setSearchContainerOpenState] = useState(false);
 
 	const handleSearchChange = async (e) => {
 
